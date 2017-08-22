@@ -14,9 +14,9 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "DD8715CA1F4C8DC400511D98"
-               BuildableName = "SO45820305.app"
-               BlueprintName = "SO45820305"
+               BlueprintIdentifier = "DD8715EE1F4C8DC800511D98"
+               BuildableName = "SO45820305Testing.app"
+               BlueprintName = "SO45820305Testing"
                ReferencedContainer = "container:SO45820305.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
@@ -28,13 +28,23 @@
       selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
       shouldUseLaunchSchemeArgsEnv = "YES">
       <Testables>
+         <TestableReference
+            skipped = "NO">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "DD8715DE1F4C8DC400511D98"
+               BuildableName = "SO45820305Tests.xctest"
+               BlueprintName = "SO45820305Tests"
+               ReferencedContainer = "container:SO45820305.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
       </Testables>
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "DD8715CA1F4C8DC400511D98"
-            BuildableName = "SO45820305.app"
-            BlueprintName = "SO45820305"
+            BlueprintIdentifier = "DD8715EE1F4C8DC800511D98"
+            BuildableName = "SO45820305Testing.app"
+            BlueprintName = "SO45820305Testing"
             ReferencedContainer = "container:SO45820305.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
@@ -55,9 +65,9 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "DD8715CA1F4C8DC400511D98"
-            BuildableName = "SO45820305.app"
-            BlueprintName = "SO45820305"
+            BlueprintIdentifier = "DD8715EE1F4C8DC800511D98"
+            BuildableName = "SO45820305Testing.app"
+            BlueprintName = "SO45820305Testing"
             ReferencedContainer = "container:SO45820305.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
@@ -74,9 +84,9 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "DD8715CA1F4C8DC400511D98"
-            BuildableName = "SO45820305.app"
-            BlueprintName = "SO45820305"
+            BlueprintIdentifier = "DD8715EE1F4C8DC800511D98"
+            BuildableName = "SO45820305Testing.app"
+            BlueprintName = "SO45820305Testing"
             ReferencedContainer = "container:SO45820305.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
